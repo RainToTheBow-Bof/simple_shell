@@ -41,6 +41,9 @@ ls -la
 * [**Nancy Moraa**](https://github.com/moraacee)
 * [**Newton Ombese**](https:/github.com/RainToTheBow-Bof)
 
+## Polite Notice
+We agreed to work with my account since Newton's sandbox was returning a blank screen so we worked together in Nancy's sandbox
+
 ## Acknowledgments :pray:
 - Our fellow cohort members.
 - The creators of the C language.
